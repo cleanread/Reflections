@@ -1,0 +1,65 @@
+Question 1
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Answer 1
+It only presented sections of the code where there were differences.
+
+I only had to scan and compare small amounts of code instead of the entire document.
+
+Question 2
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Answer 2
+Version history helps you find when bugs were introduced and either revert to the old version or debug based on the old code.
+
+Also, functions and code that becomes depracated may later prove useful.
+
+Question 3
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Answer 3
+Git
++ Control over commits
++ Logical increments
++ Allows logging details about commit
+- Prone to human error
+- Prone to machine error
+
+Google Docs
++ Saves immediately
+- No logical grouping of changes (date based)
+- Can create too many instances with no reasons logged
+
+Question 4
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Answer 4
+Git allows multiple files because a single logical change to a function might require updated several files.
+Google Docs is not likely to see similarly dependencies between files.
+
+Question 5
+How can you use the commands git log and git diff to view the history of files?
+
+Answer 5
+Git log shows the commit history with comments. Use this to identify the commits to be compared. Then copy the commit IDs into git diff to view the differences.
+
+Question 6
+How might using version control make you more confident to make changes that could break something?
+
+Answer 6
+I would be much more likely to try new things including removing functions.
+
+I wouldn't rely so much on commenting out unused code just in case it might be useful in the future.
+
+Question 7
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Answer 7
+Games. Web sites. Anything.
+
+http://www.captainforever.com/captainforever.php?cfe=nqlbdsbthsowa5
+
+http://www.captainforever.com/captainforever.php?cfe=nqlbqza2lfjvbjf2cxkoaqpjvgbv02thsewa2r20wlian15vgn2znagr5xa2iiqw1int1jvhbvjnolp4xnore1wlitt15vhn2zbthg2wdoi2pyyo2x11ogd5yp3mi2whoitqyxrny11vhdejtuisqxfaeb0wwrbks1og2fj2il3dwo2flcwvrnlc1uh2f0urli5xo2ugdwz3b1p
+
+http://www.captainforever.com/captainforever.php?cfe=nqlbqza2lfjvbjiwcxzrpf41okncjktmf35drr5cy2ipd4jugbvjo3lg25a5r50wyipos1ok2u0kylr25o2rypv1oqqp5rgn5jmthwj5bjr0cxkibn1jkgbv02thsewa2r20wlian15vgn5jp3lldxbyrc1wwrubc0ahnejhrhhezturydxxrdgd0qhue0hzhr5ya2ri1wlrc2p0ahbf0hogmdz2tfydwxidlcjah2v0duhs5ynosyqw1ict15uhn5jcolsexa2fcdxkrt2p5rhn50cuhlqwnoibcyvrnwdjrhcwjnom3dxhrfcdzvruwd0qhcwjgkmiezfzri1ylou5qjohcg0dui34yhrf5dzz3cy11u3ctjuuii2xhorg1ylon5q0olcsjq3ms2vfar20y0ibx14kgdejqtigjvgkr00ylr24qjugcg03ti31vhrfyczz3px11okcpnl3ms25evrlczkoa4q4agd21nzhr2xcareqxlongqsyhui0evmgjwdkr3pxlo2fqjkltwja5mgzvdkf0pxw3bqp0ag2a1a2kfjvlefw050rpvsjrgq40mtgp4vmiry050r24pjafqdj33kp4wmirp050ib4p4zgpfjp3kp1wm3f3cvko2x00umph0nug3dxk5rc150rt5p1vhpa1dafmqyk2fwdvzrdwcjzhq40eugp1ymiri150ou5p1ohpv0tugp1xm3fgdvaob4p0uhahjcvlsjxp2fcqvwgu3cjzm2vjnvlgjwqjr3pvlo2kp5kl2axoylrjvp2r0pvc
+

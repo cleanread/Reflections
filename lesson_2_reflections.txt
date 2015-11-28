@@ -1,0 +1,14 @@
+Question 1
+What happens when you initialize a repository? Why do you need to do it?
+
+Answer 1
+The hidden folder ".git" is created along with git metadata.
+
+This allows the user to submit commits later.
+
+Question 2
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Answer 2
+
+The staging area allows the user to group files to be updated into a single logical commit.
