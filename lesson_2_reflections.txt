@@ -29,3 +29,9 @@ Branches could help with re-tooling the backend or DB structure
 Branches could also be used for experimental features
 
 They help because the development of the branch does not stop the master branch from being developed
+
+Question 5
+How do the diagrams help you visualize the branch structure?
+
+Answer 5
+The diagrams tie the commits to each other in a chronological way so that you can see where they were made.
