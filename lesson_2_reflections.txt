@@ -35,3 +35,14 @@ How do the diagrams help you visualize the branch structure?
 
 Answer 5
 The diagrams tie the commits to each other in a chronological way so that you can see where they were made.
+
+Question 6
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Answer 6
+It is a way of joining to divergent versions of the program back into one.
+
+It is represented as a combining of multiple paths because the purpose of it is to combine commits
+
+
+
