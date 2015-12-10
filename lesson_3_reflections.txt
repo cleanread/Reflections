@@ -19,3 +19,10 @@ Answer 3
 Forks clone a repository directly on GitHub. They would be useful when you are planning from splitting from the source and don't intend for your changes to be merged back into the origin.
 Clones copy a repository from Git or GitHub to your local system. They are useful when you want to make multiple versions of the same software.
 Branches create a new commit path in the same repo. They are useful when performing work with the intent to merge it into master.
+
+Question 4
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Answer 4
+The benefit of having a copy is that a developer can work on resolving merge conflicts locally without having to connect to the repo online.
+
