@@ -12,3 +12,10 @@ Why might you want to always pull changes manually rather than having Git automa
 Answer 2
 Pulling changes may result in merge conflicts or unusable code if you still haven't finished the functionality that you are building locally
 
+Question 3
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Answer 3
+Forks clone a repository directly on GitHub. They would be useful when you are planning from splitting from the source and don't intend for your changes to be merged back into the origin.
+Clones copy a repository from Git or GitHub to your local system. They are useful when you want to make multiple versions of the same software.
+Branches create a new commit path in the same repo. They are useful when performing work with the intent to merge it into master.
