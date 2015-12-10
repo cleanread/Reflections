@@ -44,5 +44,10 @@ It is a way of joining to divergent versions of the program back into one.
 
 It is represented as a combining of multiple paths because the purpose of it is to combine commits
 
+Question 7
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
+Answer 7
+Pros: Is much faster
+Cons: Could add unused functions
 
