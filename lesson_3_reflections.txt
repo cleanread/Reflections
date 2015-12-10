@@ -5,3 +5,10 @@ Answer 1
 When you are collaborating with other users
 When you might use multiple machines
 When you care about backing up your work
+
+Question 2
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Answer 2
+Pulling changes may result in merge conflicts or unusable code if you still haven't finished the functionality that you are building locally
+
