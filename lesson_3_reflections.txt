@@ -26,3 +26,9 @@ What is the benefit of having a copy of the last known state of the remote store
 Answer 4
 The benefit of having a copy is that a developer can work on resolving merge conflicts locally without having to connect to the repo online.
 
+Question 5
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Answer 5
+I would archive and label files when they get updated. I would also keep a record of what is changed for every update.
+There would be less administrative work during the project, but it would be very time consuming to visit previous versions of the code.
