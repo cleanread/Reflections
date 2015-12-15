@@ -32,3 +32,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Answer 5
 I would archive and label files when they get updated. I would also keep a record of what is changed for every update.
 There would be less administrative work during the project, but it would be very time consuming to visit previous versions of the code.
+
+Question 6
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Answer 6
+Any new work could be developed in separate branches. It would then be merged into master so that no master commits include work.
+This would prevent submitting changes that break the master branch.
+It does require more administration than just committing directly to master.
